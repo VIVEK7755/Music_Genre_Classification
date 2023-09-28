@@ -47,11 +47,23 @@ In this project, we use machine learning techniques to classify music genres bas
 
 After training the model, you can evaluate its performance and visualize the results using the provided Jupyter Notebook or Python script. Experiment with different hyperparameters and preprocessing techniques to improve the model's accuracy.
 
-![Performance Plot](images/performance_plot.png)
-*Figure 1: Performance plot showing accuracy and loss over epochs.*
+![Wave Form](images/1.png)
+*Figure 1: Displays Wave Form.*
 
-![Spectrogram Example](images/spectrogram_example.png)
-*Figure 2: Example spectrogram of a music segment.*
+![Spectrogram Example](images/2.png)
+*Figure 2: Color Bar of Amplitude.*
+
+![Performance Plot](images/3.png)
+*Figure 3: Color Bar : Specshpw Of Amplitude.*
+
+![Spectrogram Example](images/4.png)
+*Figure 4: Spectrogram of a music segment.*
+
+![Performance Plot](images/5.png)
+*Figure 5: Chroma Features*
+
+![Spectrogram Example](images/6.png)
+*Figure 6: Performance showing accuracy and loss over epochs.*
 
 ## Contributing
 
