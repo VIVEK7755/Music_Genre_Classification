@@ -17,14 +17,11 @@ In this project, we use machine learning techniques to classify music genres bas
 Installation
 Clone this repository:
 
-bash
-Copy code
 git clone <repository-url>
 cd music-genre-classification
+
 Install the required dependencies:
 
-bash
-Copy code
 pip install pandas numpy matplotlib scipy scikit-learn tensorflow librosa
 Download the dataset and place it in the appropriate directory.
 
