@@ -65,6 +65,9 @@ After training the model, you can evaluate its performance and visualize the res
 ![Spectrogram Example](images/6.png)
 *Figure 6: Performance showing accuracy and loss over epochs.*
 
+![Prediction](images/7.png)
+*Figure 6: Predicting given sample music Gener.*
+
 ## Contributing
 
 Contributions to this project are welcome. If you have any suggestions or improvements, please create a pull request.
